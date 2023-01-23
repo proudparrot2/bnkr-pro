@@ -1,4 +1,5 @@
 /node-modules/
+node-modules
 .replit
 replit.nix
 package-lock.json
