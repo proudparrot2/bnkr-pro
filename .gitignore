@@ -4,3 +4,4 @@ replit.nix
 package-lock.json
 package.json
 /.upm
+.breakpoints
