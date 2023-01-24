@@ -14,8 +14,8 @@
 - Active Community: With a expected development lifetime of a year, and a community support forever, Bunker PRO will last.
 - Downloading: In addtion to regular downloading, you can get Bunker PRO in two other methods that don't even show up in download history
 
-Excited? Bunker PRO releases March 14th, 2023.
+### 🔥 Excited? Leave a ⭐ (top right corner)
 
-Feel free to make an issue to suggest a feature.
+Bunker PRO releases March 14th, 2023.
 
-However I am not taking any developer applications (unless you think you're pretty good at JS)
+Feel free to make an issue to suggest a feature, however I am not taking any developer applications (unless you think you're pretty good at JS)
